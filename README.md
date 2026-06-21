@@ -86,7 +86,7 @@ monitoreo de recursos, administración de procesos e interfaces gráficas.
 
 ## Autor
 
-Alonso Romo Núñez
+Angel Alonso Romo Núñez
 
 ## Licencia
 
